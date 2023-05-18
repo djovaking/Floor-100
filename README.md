@@ -11,7 +11,7 @@ Le projet Floor-100 est une simple landing page qui n'a pas de fonctuion ou de b
 1. Clonez ce repository sur votre machine locale en utilisant la commande suivante :
 
 ```shell
-git clone https://github.com/djovaking/Floor-99.git
+git clone https://github.com/djovaking/Floor-100.git
 ```
 
 2. Accédez au répertoire du projet :
