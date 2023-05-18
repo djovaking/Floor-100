@@ -124,6 +124,17 @@
     </div>
   </footer>
 
+  <script type="text/javascript">
+    // Empécher le déclenchement des transitions au chargement de la page
+    document.getElementById('site-body').classList.remove('no-transition');
+
+    // Ajout d'un écouteur d'événement sur le menu-button
+    document.getElementById('menu-button').addEventListener('click', function () {
+      document.getElementById('site-nav').classList.toggle('visible');
+    })
+
+  </script>
+
 </body>
 
 </html>
